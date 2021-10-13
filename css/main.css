@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#17082e 0,#1a0933 7%,#1a0933 80%,#0c1f4c 100%);
+
+}
+
+header {
+    padding-top: .5rem;
+    padding-bottom: 1rem;
+    background: #170229;
+}
+
+.logo {
+    color: #fff;
+    font-size: 1.3rem;
+    margin-right: 1rem;
+    white-space: nowrap;
+    margin-left: .5rem;
+    text-decoration: none;
+}
+
+.menu{
+    color: #ffffff8C;
+    font-size: 1rem;
+    padding: .35rem;
+    white-space: nowrap;
+    margin-left: .3rem;
+    text-decoration: none;
+    font-family: "Segoe UI";
+    text-shadow: 0 0 1px rgb(255 255 255 / 30%), 0 0 2px rgb(255 255 255 / 30%), 0 0 5px rgb(255 255 255 / 20%)
+}
+
+.action {
+    text-shadow: 0 1px rgb(255 255 255 / 60%), 0 0 1px rgb(255 255 255 / 50%), 0 0 0.5rem rgb(255 255 255 / 30%), 0 0 2rem rgb(255 255 255 / 20%)
+}
+
+footer > div{
+    position:relative;
+    padding: 1rem;
+}
+
+footer > div > h4 {
+    font-family: "Segoe UI";
+    color: #fff;
+    font-size: 1.3rem;
+    text-align: center;
+    text-shadow: 0 0 1px rgb(50 251 226 / 60%), 0 0 3px rgb(50 251 226 / 50%), 0 0 0.5rem rgb(50 251 226 / 30%), 0 0 2rem rgb(50 251 226 / 20%)
+}

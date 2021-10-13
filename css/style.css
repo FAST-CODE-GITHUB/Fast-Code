@@ -1,0 +1,76 @@
+/* Текст */
+.title {
+    font-family: "Segoe UI";
+    text-shadow: 0 1px rgb(255 255 255 / 60%), 0 0 3px rgb(255 255 255 / 50%), 0 0 0.5rem rgb(255 255 255 / 30%), 0 0 2rem rgb(255 255 255 / 20%)
+}
+
+
+/* Блоки */
+.box {
+    margin: .3rem;
+    margin-top: 1rem;
+    display: block;
+    max-width: 100rem;
+}
+
+div > div > a {
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-family: "Segoe UI";
+    text-shadow: 0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+    text-decoration: none;
+}
+
+.box-title {
+    margin: 15px 15px 5px;
+    padding-bottom: .7rem;
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    text-shadow: 0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+}
+
+.box-title-name {
+    margin: 10px 15px 10px;
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-family: "Segoe UI";
+    text-shadow: 0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+}
+
+.box-title-name-text {
+    margin: 10px 15px 15px;
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: "Segoe UI";
+    text-shadow:0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+}
+
+.box-shadow-green {
+    box-shadow: 0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+    border: 2px solid #0de26d;
+}
+
+.box-shadow-blur {
+    box-shadow: 0 0 2px rgb(234 57 184 / 90%), 0 0 4px rgb(234 57 184 / 40%), 0 0 1rem rgb(234 57 184 / 30%), 0 0 4rem rgb(234 57 184 / 10%);
+    border: 2px solid rgb(234 57 184 / 90%);
+}
+
+.box-shadow-purpel {
+    box-shadow: 0 0 2px rgb(111 66 193 / 90%), 0 0 4px rgb(111 66 193 / 40%), 0 0 1rem rgb(111 66 193 / 30%), 0 0 4rem rgb(111 66 193 / 10%);
+    border: 2px solid rgb(111 66 193 / 90%);
+}
+
+.box-shadow-blue {
+    box-shadow:0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+    border: 2px solid rgb(68 217 232 / 90%);
+}
+
+hr{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 0 2px rgb(68 217 232 / 90%), 0 0 4px rgb(68 217 232 / 40%), 0 0 1rem rgb(68 217 232 / 30%), 0 0 4rem rgb(68 217 232 / 10%);
+}
